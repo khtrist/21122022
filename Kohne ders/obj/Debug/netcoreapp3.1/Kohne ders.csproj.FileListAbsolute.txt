@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.exe
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.deps.json
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.dll
+D:\Visual Studi Code Academy Lessons or\Kohne ders\bin\Debug\netcoreapp3.1\Kohne ders.pdb
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.dll
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.pdb
+D:\Visual Studi Code Academy Lessons or\Kohne ders\obj\Debug\netcoreapp3.1\Kohne ders.genruntimeconfig.cache
