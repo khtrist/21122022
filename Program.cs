@@ -27,8 +27,8 @@ namespace _21122022
 
             Console.WriteLine("Isci sayini daxil et");
             var isci = Console.ReadLine();
-            int counter = Convert.ToInt32( isci );
-            Employee[] humans = new Employee[counter];
+            int isci = Convert.ToInt32( isciStr );
+            Employee[] humans = new Employee[isci];
             for (int i = 0; i < humans.Length; i++)
             {
                 Console.WriteLine(" Iscinin Adini daxil et daxil et");
